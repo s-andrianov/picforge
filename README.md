@@ -153,7 +153,7 @@ While this project was primarily a personal endeavor, contributions, suggestions
 
 ## License
 
-[GPL-3.0 license](https://github.com/s-andrianov/picforge/?tab=GPL-3.0-1-ov-file#readme)
+[GPL-3.0 license](https://github.com/s-andrianov/picforge/?tab=GPL-3.0-1-ov-file)
 
 ## Acknowledgements
 
